@@ -1,6 +1,6 @@
 .spclh1{ color: blue }
 
-.MenuPrincipal {
+#MenuPrincipal {
   list-style-type: none;
   margin: 0;
   padding: 0;
