@@ -1,0 +1,46 @@
+#tabcol{
+  text-align: center;
+  margin: 80px;
+  margin-top: 0px;
+}
+
+
+
+#col1, #col2, #col3{
+  border: 1px solid black;
+  margin: auto;
+  background-color: grey;
+  font-style: bold;
+  font-size: 18px;
+}
+
+
+#tabtitre1, #tabtitre2, #tabtitre3{
+  text-align: center;
+  border: 1px solid black;
+}
+
+#tabtitre1{
+
+background-color: pink;
+ font-size: 20px;
+}
+
+#tabtitre2{
+
+background-color: red;
+ font-size: 20px;
+color: white;
+}
+
+#tabtitre3{
+
+background-color: brown;
+ font-size: 20px;
+}
+
+
+h1{
+  text-align: center;
+  margin:50px;
+}
